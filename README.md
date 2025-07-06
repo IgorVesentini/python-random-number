@@ -29,3 +29,5 @@ Il programma:
 
    ```bash
    python generatore_numeri_casuali.py
+
+Questo è un progetto didattico il cui scopo è quello di esplorare le best practice in Python e le sue potenzialità
